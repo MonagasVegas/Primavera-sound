@@ -1,10 +1,9 @@
 .btn{
-    border-radius: 0%;
-
+border-radius: 0%;
 }
 
 .btn1{
-    position: static;
+position: static;
 width: 100px;
 height: 36px;
 left: 30px;
@@ -15,7 +14,6 @@ font-style: normal;
 font-weight: 700;
 font-size: 16px;
 line-height: 97.02%;
-
 }
 
 .btn2{
@@ -32,67 +30,54 @@ border: #FA008D;
 }
 
 .btn3{
-
 width: 153px;
 height: 36px;
-
 }
 
 .btn4{
-
-    
-
-  
-    color: white;
-    margin-left: 35%;
-      
+color: white;
+margin-left: 35%;    
 }
 
 .img{
-    
-    width: 145px;
-    left: 60px;
-    top: 934px;
-
+width: 145px;
+left: 60px;
+top: 934px;
 }
 
 .imgXs{
-    width: 140px;
-    
-    top: 934px;
+width: 140px;
+top: 934px;
 }
 
 
 .textWhite{
-    color: white;
+ color: white;
 }
 
 .icono{
-    color: white;
-
+ color: white;
 }
 .title{
-    margin-top: "200px";
-    margin-left: "85px";
-  
+margin-top: "200px";
+margin-left: "85px";  
 }
 
 .Letras{
-    width: 0px;
+width: 0px;
 }
 .btn-outline-primary{
-
-    color: white;
+color: white;
 }
 
 .point{
-    background: "#FA008D";
-    border-radius:'50%';
-    width:"10px";
-    height:"10px";
-    border:"#FA008D";
+background: "#FA008D";
+border-radius:'50%';
+width:"10px";
+height:"10px";
+border:"#FA008D";
 }
 
 .containerTwo{
-    border:"1px solid red"
+border:"1px solid red"
 }

@@ -1,22 +1,16 @@
-.imgMain{
-  
-    width:"580px"
+.imgMain{  
+width:"580px"
 }
 
 .btn1{
-
-   
-   
- 
-    width: 345px;
-    height: 56px;
-    color: white;
-    background: #FA008D;
-    border: #FA008D;
+width: 345px;
+height: 56px;
+color: white;
+background: #FA008D;
+border: #FA008D;
 }
 
 .comment{
-
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
@@ -25,28 +19,23 @@ color: #3182CE;
 }
 
 .text{
-    text-align: left;
+text-align: left;
 }
 
 .text2{
-    text-align: left;
-    
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 125%;
-    color: #111111;
-
+text-align: left;    
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 125%;
+color: #111111;
 }
 
 .text3{
-  
 width: 485px;
 height: 180px;
 left: 901px;
 top: 1312px;
-
-
 font-weight: 400;
 font-size: 14px;
 line-height: 125%;
@@ -62,66 +51,58 @@ color: #111111;
 
 }
 
-.subtitle{
-    
+.subtitle{   
 font-style: normal;
 font-weight: 600;
 line-height: 125%;
 color: #111111;
 }
 
-.box{
-    
-    justify-content: center;
-    align-items: flex-start;
-    width: 486px;
-    height: 96px;
-    left: 901px;
-    top: 826px;
-    background: #FFFFFF;
-    border: 1.5px solid #EDF2F7;
-    padding: 15px;
-    
+.box{    
+justify-content: center;
+align-items: flex-start;
+width: 486px;
+height: 96px;
+left: 901px;
+top: 826px;
+background: #FFFFFF;
+border: 1.5px solid #EDF2F7;
+padding: 15px;  
 }
 
 .btnModal{
-    width: 345px;
-    height: 56px;
-    color: white;
-    background: #FA008D;
-    border: #FA008D;
+width: 345px;
+height: 56px;
+color: white;
+background: #FA008D;
+border: #FA008D;
 }
-
-
 
 
 @media screen and (max-width: 800px){
-    .btn1{
-        margin-left: 2%;
-        justify-content: center;
-        align-items: center;
-        width: 345px;
-        color: white;
-        background: #FA008D;
-    }
+.btn1{
+margin-left: 2%;
+justify-content: center;
+align-items: center;
+width: 345px;
+color: white;
+background: #FA008D;
+}
 
 .box{
-
-    justify-content: center;
-    align-items: flex-start;
-    width: 486px;
-    height: 96px;
-    left: 901px;
-    top: 826px;
-    padding: 15px;
-    font-size: 12px;
+justify-content: center;
+align-items: flex-start;
+width: 486px;
+height: 96px;
+left: 901px;
+top: 826px;
+padding: 15px;
+font-size: 12px;
 }
 
 .text3{
-    font-size: 11px;
-    padding: 15px;
+font-size: 11px;
+padding: 15px;
 }
-
-
 
 }
