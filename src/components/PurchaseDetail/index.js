@@ -1,7 +1,6 @@
-/*Dependencies*/
+
 import React from "react";
 
-/*Constants*/
 import './index.css';
 import IMAG from './img/Secondary.png';
 
@@ -15,10 +14,6 @@ import IMAG from './img/Secondary.png';
 
 export function PurchaseDetail() {
   
-
-/*Functions*/
-
-
 
   return (
     <>
