@@ -12,7 +12,9 @@ import E from "../img/E.png";
 class Header extends Component {
   constructor(props) {
     super(props);
-    this.state = {};
+    this.state = {
+      value: false,
+    };
   }
 
   handleClose = () => {

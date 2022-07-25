@@ -18,14 +18,7 @@ class Home extends Component {
     };
   }
 
-  handleClick = () => {
-    this.setState({ value: true });
-  };
-
-  handleClose = () => {
-    this.setState({ value: false });
-  };
-
+ 
   render() {
     return (
       <div
@@ -42,24 +35,11 @@ class Home extends Component {
               "linear-gradient(0deg, #111111 0%, rgba(0, 0, 0, 0.588231) 64.17%, rgba(0, 0, 0, 0) 85.42%)",
           }}
         >
-          <div>
-            <br />
-            <br />
-          </div>
           <Carrusel />
-          <div>
-            <br />
-            <br />
-          </div>
           <ViewAll />
           <Categories />
           <Footer />
           <MobilesCategories />
-          <div>
-            <br />
-            <br />
-            <br />
-          </div>
          <MobilesFooter />
         </div>
       </div>

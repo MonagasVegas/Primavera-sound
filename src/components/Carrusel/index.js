@@ -17,6 +17,7 @@ class Carrusel extends Component {
   render() {
     return (
       <div>
+        <div><br /><br /></div>
         <div class="row">
           <div class="col-sm-6 col-md-6 col-lg-6   d-none d-sm-none d-lg-block">
             <p>
@@ -115,6 +116,7 @@ class Carrusel extends Component {
             </button>
           </div>
         </div>
+        <div><br /><br /></div>
       </div>
     );
   }

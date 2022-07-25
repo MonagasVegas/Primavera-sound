@@ -167,6 +167,11 @@ class MobilesCategories extends Component {
             </div>
           </div>
         </div>
+        <div>
+            <br />
+            <br />
+            <br />
+          </div>
       </div>
     );
   };

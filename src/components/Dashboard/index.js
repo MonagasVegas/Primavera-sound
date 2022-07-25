@@ -1,15 +1,19 @@
 import React, { Component } from "react";
 import "./index.css";
 
-import { PurchaseDetail } from "../PurchaseDetail";
+import { PurchaseDetail } from '../PurchaseDetail'
 
 
 class Dashboard extends Component {
   constructor(props) {
     super(props);
-    this.state = {};
+    this.state = {
+      value: false,
+    };
   }
-
+  handleClose = () => {
+    this.setState({ value: false });
+  };
 
   handleClick = () => {
     this.setState({ value: true });
